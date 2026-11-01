@@ -36,7 +36,7 @@ Six tables, 2015–2024:
 - Daily P&L: labour %, operating margin %, revenue per cover, loss-day flag
 
 ## 7. (replace the last insight with this)
-7. **Prediction model:** a high-value order is one with revenue above the median.
+ **Prediction model:** a high-value order is one with revenue above the median.
    Logistic Regression identifies them with 89.5% accuracy and 90.2% precision.
 
 ## 9. Decisions & Trade-offs
