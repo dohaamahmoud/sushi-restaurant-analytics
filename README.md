@@ -70,11 +70,15 @@ Raw data (6 CSV tables) → Python (cleaning, feature engineering, ML) → Power
 ## 6. Dashboard (5 pages)
 **Overview** · **Profitability** · **Customers** · **Trends** · **Predictions**
 
-![Overview](images/overview.png)
-![Profitability](images/profitability.png)
-![Customers](images/customers.png)
-![Trends](images/trends.png)
-![Predictions](images/predictions.png)
+![Overview](images/Overview.png)
+
+![Profitability](images/Profitability.png)
+
+![Customers](images/Customers.png)
+
+![Trends](images/Trends.png)
+
+![Predictions](images/Prediction.png)
 
 ## 7. Key Insights
 1. **Midweek is the profit problem.** 30% of days are loss-making, peaking on
